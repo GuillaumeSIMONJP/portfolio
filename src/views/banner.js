@@ -7,12 +7,5 @@ export default () => (`
     <br class="sm:hidden" />
      N'hésiter pas à me contacter pour plus d'informations
   </p>
-
-  <a
-    class="mt-4 block rounded-full bg-white px-5 py-3 text-center text-sm font-medium text-indigo-600 transition hover:bg-white/90 focus:outline-none focus:ring active:text-indigo-500 sm:mt-0"
-    href="#contacts"
-  >
-    Contacts
-  </a>
 </div>
 `);
